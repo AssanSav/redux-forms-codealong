@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CreateTodo from './components/todos/CreateTodo'
+import CreateTodo from './components/CreateTodo'
 
 class App extends Component {
   render() {
